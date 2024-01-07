@@ -39,4 +39,4 @@ This is a user-friendly Todo List application developed with React. It offers se
 
 5. **View the Application**:
    Open your web browser and visit [http://localhost:3000](http://localhost:3000) to explore the Todo List application.
-```
+
